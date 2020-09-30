@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+html,body {
+    background-color: #eee;
+    font-family: 'Source Code Pro', monospace;
+}
+input,button {
+    font-family: 'Source Code Pro', monospace !important;
+}
+.notification {
+    font-size: 1.3em;
+}
